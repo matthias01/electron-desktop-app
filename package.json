@@ -12,7 +12,7 @@
   "author": "mathie",
   "license": "ISC",
   "dependencies": {
-    "electron": "^6.0.2"
+    "electron": "^13.6.6"
   },
   "devDependencies": {
     "electron-packager": "^14.0.4"
